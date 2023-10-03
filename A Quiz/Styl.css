@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+body {
+    background-attachment: fixed;
+    background-color: rgba(126, 169, 87, 0.981);
+    background-image: url("paper.gif");
+    background-color: #e68181;
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+}
+
+.menu-bar {
+    background: rgba(147, 222, 34, 0.879);
+    text-align: center;
+}
+
+.menu-bar ul {
+    display: inline-flex;
+    list-style: none;
+    color: #48c015;
+}
+
+.menu-bar ul li {
+    width: 120;
+    margin: 15px;
+    padding: 15px;
+}

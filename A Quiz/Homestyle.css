@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+body {
+    background-attachment: fixed;
+    background-color: rgba(126, 169, 87, 0.981);
+    background-image: url("paper.gif");
+    background-color: #e68181;
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+}
